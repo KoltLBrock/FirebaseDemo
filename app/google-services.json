@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "948401706230",
+    "firebase_url": "https://cidm4385firebasedemo-aabc5.firebaseio.com",
+    "project_id": "cidm4385firebasedemo-aabc5",
+    "storage_bucket": "cidm4385firebasedemo-aabc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948401706230:android:8244b7243a4aa4e2",
+        "android_client_info": {
+          "package_name": "com.example.kolton.cidm4385firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948401706230-lt2k434lrgml7iri6bf30ucik5fj0n3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kolton.cidm4385firebasedemo",
+            "certificate_hash": "55014a5be0f7393b1241a03c3ef786edda75ad65"
+          }
+        },
+        {
+          "client_id": "948401706230-kn124iat1p3bn45fi4n7nf7radadmor3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWG1VZo_D1dtLtBZ-Mlrp_EjTCzdq9yI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948401706230-kn124iat1p3bn45fi4n7nf7radadmor3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
